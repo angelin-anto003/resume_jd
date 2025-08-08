@@ -2,3 +2,4 @@ streamlit==1.24.1
 PyPDF2==3.0.1
 python-docx==0.8.11
 nltk==3.8.1
+pillow==9.4.0
